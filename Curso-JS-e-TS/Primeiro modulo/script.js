@@ -27,9 +27,6 @@ function meuForm(){
         
     }
 
-
-
-
     form.addEventListener('submit', eventoForm);
 }
 
